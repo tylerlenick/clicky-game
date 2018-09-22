@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
 import './App.css';
 import Nav from "./components/Nav";
 import CharacterCard from "./components/CharacterCard";
@@ -54,7 +53,7 @@ class App extends Component {
     this.setState({
       currentScore: 0,
       topScore: this.state.topScore,
-      rightWrong: "Glaven!",
+      rightWrong: "Sorry! You lose!",
       clicked: []
     });
     this.handleShuffle();
@@ -69,7 +68,10 @@ class App extends Component {
     return (
       <Wrapper>
         <Nav
-
+          title="Bikini Bottom Clicky Game"
+          score={this.state.currentScore}
+          topScore={this.state.topScore}
+          rightWrong={this.state.rightWrong}
         />
 
         <Container>
@@ -92,11 +94,6 @@ class App extends Component {
       </Wrapper>
     );
   }
-}
-
-const randomizeCharacters = (characters) => {
-
-  return characters;
 }
 
 export default App;

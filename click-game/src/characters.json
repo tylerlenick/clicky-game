@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "image": "http://spongebobsfanclub.weebly.com/uploads/7/2/4/7/7247490/408665.jpg?270",
+        "clicked": false
+    },
+    {
+        "id": 2,
+        "image": "https://i.pinimg.com/originals/e3/c2/c4/e3c2c421f1d0258c43c31a25158dadc4.jpg",
+        "clicked": false
+    },
+    {
+        "id": 3,
+        "image": "https://pbs.twimg.com/profile_images/580937598429851648/YgwX5k-Z_400x400.png",
+        "clicked": false
+    },
+    {
+        "id": 4,
+        "image": "https://png.pngtree.com/element_origin_min_pic/17/07/23/e9c1565e690daad3645d4840ce6679c3.jpg",
+        "clicked": false
+    },
+    {
+        "id": 5,
+        "image": "https://vignette.wikia.nocookie.net/villains/images/3/31/Mr._Krabs.jpg/revision/latest/scale-to-width-down/310?cb=20180625210303",
+        "clicked": false
+    },
+    {
+        "id": 6,
+        "image": "https://www.standingstills.com/pub/media/catalog/product/cache/75eed2686e01eb22cb4050b2f40ddf97/c/a/cac165-1-1.jpg",
+        "clicked": false
+    },
+    {
+        "id": 7,
+        "image": "https://carboncostume.com/wordpress/wp-content/uploads/2016/10/mermaidman-1.jpg",
+        "clicked": false
+    },
+    {
+        "id": 8,
+        "image": "https://vignette.wikia.nocookie.net/spongebob/images/f/fa/BBB.png/revision/latest?cb=20170826022038&path-prefix=ru",
+        "clicked": false
+    },
+    {
+        "id": 9,
+        "image": "https://vignette.wikia.nocookie.net/spongebob/images/4/44/Oie_transparent.png/revision/latest?cb=20141230213653",
+        "clicked": false
+    },
+    {
+        "id": 10,
+        "image": "https://nick-intl.mtvnimages.com/uri/mgid:file:gsp:kids-assets:/nick/properties/spongebob-squarepants/characters/gary-character-web-desktop.png?height=0&width=480&matte=true&crop=false",
+        "clicked": false
+    },
+    {
+        "id": 11,
+        "image": "https://vignette.wikia.nocookie.net/spongebob/images/2/20/728193-c1a2b718077cb79f4c5d71f3bb3a7318.png/revision/latest?cb=20180803011537",
+        "clicked": false
+    },
+    {
+        "id": 12,
+        "image": "http://cfm.yidio.com/images/tv/25651/poster-193x290.jpg",
+        "clicked": false
+    }
+]
